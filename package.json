@@ -1,5 +1,5 @@
 {
-  "name": "fastify-starter",
+  "name": "fastify-starter-test",
   "version": "0.2.1",
   "description": "Fastify Typescript Starter",
   "keywords": [
@@ -7,7 +7,6 @@
     "fastify-starter"
   ],
   "license": "MIT",
-  "author": "Huynh Duc Dung",
   "main": "app.ts",
   "directories": {
     "test": "test"
